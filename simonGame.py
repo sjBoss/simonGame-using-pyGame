@@ -1,4 +1,4 @@
-import random, sys, time, pygame
+import random, sys, time, pygame #New Game Headers
 from pygame.locals import *
 
 FPS = 30
