@@ -1,4 +1,4 @@
-## simonGame using python
+## Simon-Game using python
 
 ### Reference: 
   Al Sweigart's tutorial on pyGame
